@@ -1,4 +1,4 @@
-# Jenkins for iOS with Fastlane and SVN
+#	Jenkins for iOS with Fastlane and SVN
 ![image](https://github.com/lxbboy326/jenkins-for-iOS-with-fastlane-and-svn/blob/master/resources/1.png)
 ##    一、搭建环境
 Jenkins的安装需要JDK环境，JDK安装方法自行参考网络。Jenkins的安装有两种方式，一种是java包安装，另一种是pkg可执行程序（两种安装后的配置一样，pkg安装会在电脑上多出一个用户）。本文采用war包 + tomcat安装方法。
