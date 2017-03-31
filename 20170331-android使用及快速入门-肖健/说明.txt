@@ -1,0 +1,2 @@
+jdk下载地址：http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+sdk下载的话,只要运行android studio会自动下载。
